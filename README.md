@@ -1,11 +1,7 @@
-# Hi there, I'm **ckul** 👋
-
-🎯 **Aspiring Full-Stack Developer** | 🌍 Based in **Vilnius, Lithuania**  
-
 ---
 
 ### About Me  
-I'm a developer working to improve my full-stack development skills. Currently, I'm focused on building web applications using Django and creating front-end designs with HTML and CSS.
+Full-Stack Developer, Based in **Vilnius, Lithuania** working to improve my full-stack development skills. Currently, I'm focused on building web applications using Django and creating front-end designs with HTML and CSS.
 
 ---
 
