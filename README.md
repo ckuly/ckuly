@@ -14,7 +14,7 @@
 ### Current Projects  
 - 📊 Building a stock market portfolio tracker with Django and data visualization.  
 - 💼 Developing a personal finance tracker that connects to bank APIs for real-time transaction tracking.
-- 🎮 **bat-bet:** A platform where users can follow the latest CS2 tournaments and make predictions on match outcomes. The more accurate your predictions, the higher your rank on bat-bet! Key features include:  
+- 🎮 A platform where users can follow the latest CS2 tournaments and make predictions on match outcomes. The more accurate your predictions, the higher your rank on bat-bet! Key features include:  
   - **Tournament Tracking:** Real-time updates on ongoing and upcoming CS2 tournaments.  
   - **Prediction System:** Users can predict the winner of each match, earning points for accuracy.  
   - **Ranking System:** Users’ rankings improve as they make more accurate predictions, with leaderboards displaying top players.  
