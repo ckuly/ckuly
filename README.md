@@ -4,10 +4,11 @@
 ---
 
 ### SKILLS
-- 🖥️ **Languages:** Python, HTML, CSS, JavaScript
+- 💻 **Languages:** Python, HTML, CSS, JavaScript, Lua
 - 🗄️ **Databases:** MySQL, PostgreSQL   
 - ⚙️ **Frameworks & Libraries:** Django   
-- 🧑‍💻 **Version Control:** Git, GitHub   
+- 💾 **Version Control:** Git, GitHub
+- 🐳 **Containerization:** Docker  
 
 ---
 
