@@ -1,5 +1,5 @@
 ### About Me  
-**Full-Stack Developer**, Based in **Vilnius, Lithuania**. Building web applications using Django and create front-end designs with HTML and CSS to deliver intuitive, responsive user experiences. 
+**Full-Stack Developer**, Based in **Vilnius, Lithuania**. I build web applications using Django and create front-end designs with HTML and CSS to deliver intuitive, responsive user experiences.
 
 ---
 
