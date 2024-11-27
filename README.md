@@ -14,10 +14,10 @@
 
 ### PROJECTS
 - 📊 **Stock Market Portfolio Tracker**:
-  - A web application built with Django for tracking stock market investments, offering real-time portfolio updates and visual data analytics.  
+  - A Django web app for tracking investments with real-time updates and data visualizations.
 - 💼 **Personal Finance Tracker**
-  - A tool that helps users manage their finances by connecting to bank APIs for real-time transaction tracking and budgeting.  
+  - A tool for managing finances by connecting to bank APIs for transaction tracking and budgeting.
 - 📆 **Note Taking Application**
-  - A simple yet effective note-taking app that allows users to create, organize, and search for notes.  
+  - A simple app for creating, organizing, and searching notes.
 - 🦇 **Bat Bet**
-  - A platform where users follow CS2 tournaments and predict match outcomes, earning points for accurate predictions and climbing the leaderboard.
+  - A platform where users predict CS2 match outcomes and climb the leaderboard with accurate predictions.
