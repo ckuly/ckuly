@@ -5,7 +5,7 @@
 ---
 
 ### About Me  
-I'm a developer working to improve my full-stack development skills. Currently, I'm focused on building web applications using Django and creating front-end designs with HTML and CSS. I'm always learning and looking for ways to enhance my skills to build useful digital solutions. 💻✨
+I'm a developer working to improve my full-stack development skills. Currently, I'm focused on building web applications using Django and creating front-end designs with HTML and CSS.
 
 ---
 
