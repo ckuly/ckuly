@@ -4,7 +4,7 @@
 ---
 
 ### SKILLS
-- 💻 **Languages:** Python, HTML, CSS, JavaScript, Lua
+- 💻 **Languages:** Python, HTML, CSS, JavaScript, TypeScript, Lua
 - 🗄️ **Databases:** MySQL, PostgreSQL   
 - ⚙️ **Frameworks & Libraries:** Django   
 - 💾 **Version Control:** Git, GitHub
