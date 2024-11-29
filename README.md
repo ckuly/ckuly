@@ -6,7 +6,7 @@
 ### SKILLS
 - 💻 **Languages:** Python, HTML, CSS, JavaScript, TypeScript, Lua
 - 🗄️ **Databases:** MySQL, PostgreSQL   
-- ⚙️ **Frameworks & Libraries:** Django   
+- ⚙️ **Frameworks & Libraries:** Django, Pandas, NumPy, Matplotlib, Seaborn  
 - 💾 **Version Control:** Git, GitHub
 - 🐳 **Containerization:** Docker  
 
