@@ -3,6 +3,8 @@
 
 🧱 **Full-Stack Developer**
 
+---
+
 ### PROJECTS
 
 1. **personal-car-service** 
@@ -24,6 +26,8 @@
    - 🍹 *Description*: A simple open-source Discord bot for adding an RPG-like experience to your server. Includes message handling, trading, skill leveling, dice rolling, and more.
    - 💻 *Technologies*: Python, Django, Discord.py
    - 🛠️ *Features*: RPG elements, skill leveling, message handling, dice rolling.
+
+---
 
 ### CONTACTS
 
