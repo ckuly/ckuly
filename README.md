@@ -1,7 +1,7 @@
 ### ABOUT ME
 📍 Based in **Vilnius, Lithuania**
 
-🧱 Full-Stack Developer
+🧱 **Full-Stack Developer**
 
 ### Projects:
 
