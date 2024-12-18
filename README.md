@@ -17,7 +17,7 @@
    - 💻 *Technologies*: Django, Python, PostgreSQL
    - 📚 *Features*: Manage books, track rentals, handle user accounts, and generate reports.
 
-3. **personal-project-handling** (Public)
+3. **Amazing Bob** (Public)
    - 📁 *Description*: A Django-based web app for streamlining project management for teams.
    - 💻 *Technologies*: Django, Python, PostgreSQL
    - 📊 *Features*: Task management, team collaboration, project tracking, and reporting.
