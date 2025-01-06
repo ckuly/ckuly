@@ -29,8 +29,8 @@
 
 ---
 
-### CONTACTS
+### Contact
 
-📧 Unavailable currently.
+- **Email**: kyuakarago@gmail.com
 
 
