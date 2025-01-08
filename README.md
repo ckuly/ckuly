@@ -1,7 +1,8 @@
 ### ABOUT ME
 📍 Based in **Vilnius, Lithuania**
 
-🧱 **Full-Stack Developer**
+⚗️ **Mainly Data Engineering**
+🧱 **Hobby Full-Stack Developer**
 
 ---
 
