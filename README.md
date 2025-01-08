@@ -8,7 +8,7 @@
 
 ### Projects
 
-1. **[BudgetWise](https://github.com/yourusername/BudgetWise)**  
+1. **[BudgetWise](https://github.com/SourPips/BudgetWise)**  
    A finance tracking application that helps users manage budgets, transactions, and savings goals.  
    *Technologies*: Python, Django, PostgreSQL, JavaScript
 
@@ -16,7 +16,7 @@
    A web application to organize and track personal book collections with features for ratings, reviews, and categorization.  
    *Technologies*: Python, Django, PostgreSQL, HTML/CSS
 
-3. **[Car Service](https://github.com/ckuly/Car-Service)**  
+3. **[Car Service](https://github.com/ckuly/Personal-Car-Service)**  
    A Django-based web platform for managing car maintenance services, schedules, and records.  
    *Technologies*: Django, PostgreSQL, Bootstrap, JavaScript
 
