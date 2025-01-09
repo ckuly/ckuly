@@ -1,8 +1,7 @@
 # About Me
 
 📍 **Location**: Vilnius, Lithuania  
-⚙️ **Main Focus**: Data Engineering  
-💻 **Side Projects**: Full-Stack Development
+⚙️ **Main Focus**: Full-Stack Development
 
 ---
 
