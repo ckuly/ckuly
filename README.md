@@ -2,8 +2,7 @@
 
 📍 **Location**: Vilnius, Lithuania  
 ⚙️ **Main Focus**: Full-Stack Development
-
----
+💻 **Tech Stack**: Python, Django, PostgreSQL, JavaScript, HTML, CSS
 
 ### Projects
 
@@ -14,8 +13,6 @@
 2. **[Barmen](https://github.com/ckuly/Barmen)** (Private)  
    A Discord bot application built with Python and Django to manage car service-related tasks and automate interactions.  
    *Technologies*: Python, Django, PostgreSQL, Discord.py
-
----
 
 ### Contact
 
