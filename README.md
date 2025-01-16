@@ -1,5 +1,3 @@
-# About Me
-
 📍 **Location**: Vilnius, Lithuania  
 ⚙️ **Main Focus**: Full-Stack Development  
 💻 **Tech Stack**: Python, Django, PostgreSQL, JavaScript, HTML, CSS   
