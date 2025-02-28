@@ -1,13 +1,11 @@
-📍 **Location**: Vilnius, Lithuania  
-⚙️ **Main Focus**: Full-Stack Development  
-💻 **Tech Stack**: Python, Django, PostgreSQL, JavaScript, HTML, CSS   
+**Location:** Vilnius, Lithuania  
+**Specialization:** FinTech & Cybersecurity  
+**Core Technologies:** Python, Django, PostgreSQL, JavaScript, REST APIs, Docker, Linux, CI/CD, Cloud Security
 
-### 🌟 Projects  
+### **Projects**  
 
-1. **[BudgetWise](https://github.com/SourPips/BudgetWise)**  
-   A comprehensive finance tracking application designed to help users manage budgets, track transactions, and achieve savings goals.  
-   **Technologies**: Python, Django, PostgreSQL, JavaScript  
+Working on private, high-security FinTech and cybersecurity solutions with a focus on financial data integrity, secure transactions, and scalable architectures.  
 
-### 📬 Contact  
+### **Contact**  
 
-📧 **Email**: [kyukarago@gmail.com](mailto:kyukarago@gmail.com)  
+For professional inquiries, please reach out via email.
